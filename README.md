@@ -18,11 +18,10 @@ Masters of Science in Architecture, Brandenburg University of Technology
 Bachelor of Science in Architecture, University of Belgrade  
   
 ### **🛠️ Tech Stack**
-  
-#### Languages: Python, SQL  
-#### Frameworks & Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, XGBoost, Huggingface  
-#### Tools: Azure, GCP, Docker, Git  
-#### Specialties: LLMs, Generative AI, NLP, Machine Learning, Deep Learning, Time Series Analysis, Statistical Analysis, Data Visualization, Big Data Analytics, Model Deployment  
+- **Languages**: Python, SQL  
+- **Frameworks & Libraries**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, XGBoost, Huggingface  
+- **Tools**: Azure, GCP, Docker, Git
+- **Specialties**: LLMs, Generative AI, NLP, Machine Learning, Deep Learning, Time Series Analysis, Statistical Analysis, Data Visualization, Big Data Analytics, Model Deployment   
   
 ### **🌟 Experience**
   
