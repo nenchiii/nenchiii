@@ -13,9 +13,9 @@ Transforming spaces into data-driven solutions.
   
 ### ****Edu 🎓**  
   
-**Data Science & AI** Boot Camp, Le Wagon  
-**M.Sc. in Architecture**, Brandenburg University of Technology  
-**B.S. in Architecture**, University of Belgrade  
+- **Data Science & AI** Boot Camp, Le Wagon  
+- **M.Sc. in Architecture**, Brandenburg University of Technology  
+- **B.S. in Architecture**, University of Belgrade  
   
 ### **🛠️ Tech Stack**
 - **Languages**: Python, SQL  
@@ -29,7 +29,7 @@ Transforming spaces into data-driven solutions.
   
 ### **📜 Certifications**  
   
-**Data Science & AI** @LeWagon  
+- **Data Science & AI** @LeWagon  
   
 📫 Let's Connect  
 I'm passionate about creating amazing experiences with AI. Feel free to reach out for collaborations or just to chat!
