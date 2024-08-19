@@ -1,9 +1,9 @@
-Hi there, I'm Nevena! 👋
-🚀 Data Scientist | Architect
-📧 Email: nevena.andretta@outlook.com
-🔗 LinkedIn: nevenaandretta
-👨‍💻 GitHub: nenchiii
-📍 Germany
+Hi there, I'm Nevena! 👋  
+🚀 Data Scientist | Architect  
+📧 Email: nevena.andretta@outlook.com  
+🔗 LinkedIn: nevenaandretta  
+👨‍💻 GitHub: nenchiii  
+📍 Germany  
 
 🏗️ Architect turned Data Scientist | 🧠 Design Thinker | 💻 ML Enthusiast
 
