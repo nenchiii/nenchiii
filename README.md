@@ -11,13 +11,13 @@ Blending years of architectural expertise with cutting-edge AI skills.
 Transforming spaces into data-driven solutions. 
 🚀 Where creativity meets code, and innovation knows no bounds.
   
-**Edu 🎓**  
+## ****Edu 🎓**  
   
 Data Science & AI Boot Camp, Le Wagon  
 Masters of Science in Architecture, Brandenburg University of Technology  
 Bachelor of Science in Architecture, University of Belgrade  
   
-**🛠️ Tech Stack**
+### **🛠️ Tech Stack**
   
 Languages: Python, SQL  
 Frameworks & Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, XGBoost, Huggingface  
@@ -27,6 +27,7 @@ Specialties: LLMs, Generative AI, NLP, Machine Learning, Deep Learning, Time Ser
 **🌟 Experience**
   
 Architect (2020 - 2024)  
+  
 **📜 Certifications**  
   
 Data Science & AI @LeWagon  
