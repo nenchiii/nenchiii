@@ -11,7 +11,7 @@ Blending years of architectural expertise with cutting-edge AI skills.
 Transforming spaces into data-driven solutions. 
 🚀 Where creativity meets code, and innovation knows no bounds.
   
-### ****Edu 🎓**  
+### **🎓 Education**  
   
 - **Data Science & AI** Boot Camp, Le Wagon  
 - **M.Sc. in Architecture**, Brandenburg University of Technology  
